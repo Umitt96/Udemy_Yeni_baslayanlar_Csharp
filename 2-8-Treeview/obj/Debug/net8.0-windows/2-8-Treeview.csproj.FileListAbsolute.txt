@@ -1,0 +1,16 @@
+C:\Users\bigfi\source\repos\2-8-Treeview\bin\Debug\net8.0-windows\2-8-Treeview.exe
+C:\Users\bigfi\source\repos\2-8-Treeview\bin\Debug\net8.0-windows\2-8-Treeview.deps.json
+C:\Users\bigfi\source\repos\2-8-Treeview\bin\Debug\net8.0-windows\2-8-Treeview.runtimeconfig.json
+C:\Users\bigfi\source\repos\2-8-Treeview\bin\Debug\net8.0-windows\2-8-Treeview.dll
+C:\Users\bigfi\source\repos\2-8-Treeview\bin\Debug\net8.0-windows\2-8-Treeview.pdb
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\_2_8_Treeview.Form1.resources
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\2-8-Treeview.csproj.GenerateResource.cache
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\2-8-Treeview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\2-8-Treeview.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\2-8-Treeview.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\2-8-Treeview.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\2-8-Treeview.dll
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\refint\2-8-Treeview.dll
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\2-8-Treeview.pdb
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\2-8-Treeview.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\2-8-Treeview\obj\Debug\net8.0-windows\ref\2-8-Treeview.dll
