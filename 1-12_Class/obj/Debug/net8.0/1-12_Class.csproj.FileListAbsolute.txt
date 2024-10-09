@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-12_Class\bin\Debug\net8.0\1-12_Class.exe
+C:\Users\bigfi\source\repos\1-12_Class\bin\Debug\net8.0\1-12_Class.deps.json
+C:\Users\bigfi\source\repos\1-12_Class\bin\Debug\net8.0\1-12_Class.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-12_Class\bin\Debug\net8.0\1-12_Class.dll
+C:\Users\bigfi\source\repos\1-12_Class\bin\Debug\net8.0\1-12_Class.pdb
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\1-12_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\1-12_Class.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\1-12_Class.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\1-12_Class.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\1-12_Class.dll
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\refint\1-12_Class.dll
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\1-12_Class.pdb
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\1-12_Class.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-12_Class\obj\Debug\net8.0\ref\1-12_Class.dll

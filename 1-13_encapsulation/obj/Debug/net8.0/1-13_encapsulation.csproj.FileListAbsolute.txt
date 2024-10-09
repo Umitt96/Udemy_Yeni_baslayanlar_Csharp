@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-13_encapsulation\bin\Debug\net8.0\1-13_encapsulation.exe
+C:\Users\bigfi\source\repos\1-13_encapsulation\bin\Debug\net8.0\1-13_encapsulation.deps.json
+C:\Users\bigfi\source\repos\1-13_encapsulation\bin\Debug\net8.0\1-13_encapsulation.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-13_encapsulation\bin\Debug\net8.0\1-13_encapsulation.dll
+C:\Users\bigfi\source\repos\1-13_encapsulation\bin\Debug\net8.0\1-13_encapsulation.pdb
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\1-13_encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\1-13_encapsulation.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\1-13_encapsulation.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\1-13_encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\1-13_encapsulation.dll
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\refint\1-13_encapsulation.dll
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\1-13_encapsulation.pdb
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\1-13_encapsulation.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-13_encapsulation\obj\Debug\net8.0\ref\1-13_encapsulation.dll

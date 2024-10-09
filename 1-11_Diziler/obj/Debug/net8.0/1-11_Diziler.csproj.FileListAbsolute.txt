@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-11_Diziler\bin\Debug\net8.0\1-11_Diziler.exe
+C:\Users\bigfi\source\repos\1-11_Diziler\bin\Debug\net8.0\1-11_Diziler.deps.json
+C:\Users\bigfi\source\repos\1-11_Diziler\bin\Debug\net8.0\1-11_Diziler.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-11_Diziler\bin\Debug\net8.0\1-11_Diziler.dll
+C:\Users\bigfi\source\repos\1-11_Diziler\bin\Debug\net8.0\1-11_Diziler.pdb
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\1-11_Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\1-11_Diziler.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\1-11_Diziler.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\1-11_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\1-11_Diziler.dll
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\refint\1-11_Diziler.dll
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\1-11_Diziler.pdb
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\1-11_Diziler.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-11_Diziler\obj\Debug\net8.0\ref\1-11_Diziler.dll
