@@ -1,0 +1,5 @@
+C:\Users\bigfi\OneDrive\Desktop\myProject\2-2_Buttons.exe
+C:\Users\bigfi\OneDrive\Desktop\myProject\2-2_Buttons.dll
+C:\Users\bigfi\OneDrive\Desktop\myProject\2-2_Buttons.deps.json
+C:\Users\bigfi\OneDrive\Desktop\myProject\2-2_Buttons.runtimeconfig.json
+C:\Users\bigfi\OneDrive\Desktop\myProject\2-2_Buttons.pdb

@@ -1,0 +1,16 @@
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\bin\Debug\net8.0-windows\2-3_Kapsayicilar.exe
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\bin\Debug\net8.0-windows\2-3_Kapsayicilar.deps.json
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\bin\Debug\net8.0-windows\2-3_Kapsayicilar.runtimeconfig.json
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\bin\Debug\net8.0-windows\2-3_Kapsayicilar.dll
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\bin\Debug\net8.0-windows\2-3_Kapsayicilar.pdb
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\_2_3_Kapsayicilar.Form1.resources
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\2-3_Kapsayicilar.csproj.GenerateResource.cache
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\2-3_Kapsayicilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\2-3_Kapsayicilar.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\2-3_Kapsayicilar.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\2-3_Kapsayicilar.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\2-3_Kapsayicilar.dll
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\refint\2-3_Kapsayicilar.dll
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\2-3_Kapsayicilar.pdb
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\2-3_Kapsayicilar.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\2-3_Kapsayicilar\obj\Debug\net8.0-windows\ref\2-3_Kapsayicilar.dll

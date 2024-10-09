@@ -1,0 +1,16 @@
+C:\Users\bigfi\source\repos\2-2_Buttons\bin\Release\net8.0-windows\2-2_Buttons.exe
+C:\Users\bigfi\source\repos\2-2_Buttons\bin\Release\net8.0-windows\2-2_Buttons.deps.json
+C:\Users\bigfi\source\repos\2-2_Buttons\bin\Release\net8.0-windows\2-2_Buttons.runtimeconfig.json
+C:\Users\bigfi\source\repos\2-2_Buttons\bin\Release\net8.0-windows\2-2_Buttons.dll
+C:\Users\bigfi\source\repos\2-2_Buttons\bin\Release\net8.0-windows\2-2_Buttons.pdb
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\_2_2_Buttons.Form1.resources
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\2-2_Buttons.csproj.GenerateResource.cache
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\2-2_Buttons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\2-2_Buttons.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\2-2_Buttons.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\2-2_Buttons.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\2-2_Buttons.dll
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\refint\2-2_Buttons.dll
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\2-2_Buttons.pdb
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\2-2_Buttons.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\2-2_Buttons\obj\Release\net8.0-windows\ref\2-2_Buttons.dll
