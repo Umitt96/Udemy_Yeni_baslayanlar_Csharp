@@ -1,0 +1,16 @@
+C:\Users\bigfi\source\repos\2-6_listview\bin\Debug\net8.0-windows\2-6_listview.exe
+C:\Users\bigfi\source\repos\2-6_listview\bin\Debug\net8.0-windows\2-6_listview.deps.json
+C:\Users\bigfi\source\repos\2-6_listview\bin\Debug\net8.0-windows\2-6_listview.runtimeconfig.json
+C:\Users\bigfi\source\repos\2-6_listview\bin\Debug\net8.0-windows\2-6_listview.dll
+C:\Users\bigfi\source\repos\2-6_listview\bin\Debug\net8.0-windows\2-6_listview.pdb
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\_2_6_listview.Form1.resources
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\2-6_listview.csproj.GenerateResource.cache
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\2-6_listview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\2-6_listview.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\2-6_listview.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\2-6_listview.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\2-6_listview.dll
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\refint\2-6_listview.dll
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\2-6_listview.pdb
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\2-6_listview.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\2-6_listview\obj\Debug\net8.0-windows\ref\2-6_listview.dll
