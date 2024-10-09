@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-10_Not-defteri\bin\Debug\net8.0\1-10_Not-defteri.exe
+C:\Users\bigfi\source\repos\1-10_Not-defteri\bin\Debug\net8.0\1-10_Not-defteri.deps.json
+C:\Users\bigfi\source\repos\1-10_Not-defteri\bin\Debug\net8.0\1-10_Not-defteri.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-10_Not-defteri\bin\Debug\net8.0\1-10_Not-defteri.dll
+C:\Users\bigfi\source\repos\1-10_Not-defteri\bin\Debug\net8.0\1-10_Not-defteri.pdb
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\1-10_Not-defteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\1-10_Not-defteri.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\1-10_Not-defteri.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\1-10_Not-defteri.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\1-10_Not-defteri.dll
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\refint\1-10_Not-defteri.dll
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\1-10_Not-defteri.pdb
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\1-10_Not-defteri.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-10_Not-defteri\obj\Debug\net8.0\ref\1-10_Not-defteri.dll

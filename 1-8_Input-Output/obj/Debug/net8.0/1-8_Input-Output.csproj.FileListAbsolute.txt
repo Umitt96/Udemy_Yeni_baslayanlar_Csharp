@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-8_Input-Output\bin\Debug\net8.0\1-8_Input-Output.exe
+C:\Users\bigfi\source\repos\1-8_Input-Output\bin\Debug\net8.0\1-8_Input-Output.deps.json
+C:\Users\bigfi\source\repos\1-8_Input-Output\bin\Debug\net8.0\1-8_Input-Output.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-8_Input-Output\bin\Debug\net8.0\1-8_Input-Output.dll
+C:\Users\bigfi\source\repos\1-8_Input-Output\bin\Debug\net8.0\1-8_Input-Output.pdb
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\1-8_Input-Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\1-8_Input-Output.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\1-8_Input-Output.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\1-8_Input-Output.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\1-8_Input-Output.dll
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\refint\1-8_Input-Output.dll
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\1-8_Input-Output.pdb
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\1-8_Input-Output.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-8_Input-Output\obj\Debug\net8.0\ref\1-8_Input-Output.dll

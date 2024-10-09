@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-9_atm\bin\Debug\net8.0\1-9_atm.exe
+C:\Users\bigfi\source\repos\1-9_atm\bin\Debug\net8.0\1-9_atm.deps.json
+C:\Users\bigfi\source\repos\1-9_atm\bin\Debug\net8.0\1-9_atm.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-9_atm\bin\Debug\net8.0\1-9_atm.dll
+C:\Users\bigfi\source\repos\1-9_atm\bin\Debug\net8.0\1-9_atm.pdb
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\1-9_atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\1-9_atm.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\1-9_atm.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\1-9_atm.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\1-9_atm.dll
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\refint\1-9_atm.dll
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\1-9_atm.pdb
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\1-9_atm.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-9_atm\obj\Debug\net8.0\ref\1-9_atm.dll
