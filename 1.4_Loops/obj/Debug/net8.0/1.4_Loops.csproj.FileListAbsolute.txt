@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1.4_Loops\bin\Debug\net8.0\1.4_Loops.exe
+C:\Users\bigfi\source\repos\1.4_Loops\bin\Debug\net8.0\1.4_Loops.deps.json
+C:\Users\bigfi\source\repos\1.4_Loops\bin\Debug\net8.0\1.4_Loops.runtimeconfig.json
+C:\Users\bigfi\source\repos\1.4_Loops\bin\Debug\net8.0\1.4_Loops.dll
+C:\Users\bigfi\source\repos\1.4_Loops\bin\Debug\net8.0\1.4_Loops.pdb
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\1.4_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\1.4_Loops.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\1.4_Loops.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\1.4_Loops.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\1.4_Loops.dll
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\refint\1.4_Loops.dll
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\1.4_Loops.pdb
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\1.4_Loops.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1.4_Loops\obj\Debug\net8.0\ref\1.4_Loops.dll

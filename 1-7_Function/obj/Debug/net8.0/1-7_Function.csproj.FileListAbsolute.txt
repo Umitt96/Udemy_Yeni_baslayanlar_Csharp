@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-7_Function\bin\Debug\net8.0\1-7_Function.exe
+C:\Users\bigfi\source\repos\1-7_Function\bin\Debug\net8.0\1-7_Function.deps.json
+C:\Users\bigfi\source\repos\1-7_Function\bin\Debug\net8.0\1-7_Function.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-7_Function\bin\Debug\net8.0\1-7_Function.dll
+C:\Users\bigfi\source\repos\1-7_Function\bin\Debug\net8.0\1-7_Function.pdb
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\1-7_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\1-7_Function.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\1-7_Function.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\1-7_Function.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\1-7_Function.dll
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\refint\1-7_Function.dll
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\1-7_Function.pdb
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\1-7_Function.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-7_Function\obj\Debug\net8.0\ref\1-7_Function.dll

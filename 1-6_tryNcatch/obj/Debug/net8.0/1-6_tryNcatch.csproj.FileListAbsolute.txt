@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-6_tryNcatch\bin\Debug\net8.0\1-6_tryNcatch.exe
+C:\Users\bigfi\source\repos\1-6_tryNcatch\bin\Debug\net8.0\1-6_tryNcatch.deps.json
+C:\Users\bigfi\source\repos\1-6_tryNcatch\bin\Debug\net8.0\1-6_tryNcatch.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-6_tryNcatch\bin\Debug\net8.0\1-6_tryNcatch.dll
+C:\Users\bigfi\source\repos\1-6_tryNcatch\bin\Debug\net8.0\1-6_tryNcatch.pdb
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\1-6_tryNcatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\1-6_tryNcatch.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\1-6_tryNcatch.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\1-6_tryNcatch.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\1-6_tryNcatch.dll
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\refint\1-6_tryNcatch.dll
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\1-6_tryNcatch.pdb
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\1-6_tryNcatch.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-6_tryNcatch\obj\Debug\net8.0\ref\1-6_tryNcatch.dll

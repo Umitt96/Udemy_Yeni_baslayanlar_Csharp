@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-5_Switch-case\bin\Debug\net8.0\1-5_Switch-case.exe
+C:\Users\bigfi\source\repos\1-5_Switch-case\bin\Debug\net8.0\1-5_Switch-case.deps.json
+C:\Users\bigfi\source\repos\1-5_Switch-case\bin\Debug\net8.0\1-5_Switch-case.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-5_Switch-case\bin\Debug\net8.0\1-5_Switch-case.dll
+C:\Users\bigfi\source\repos\1-5_Switch-case\bin\Debug\net8.0\1-5_Switch-case.pdb
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\1-5_Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\1-5_Switch-case.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\1-5_Switch-case.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\1-5_Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\1-5_Switch-case.dll
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\refint\1-5_Switch-case.dll
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\1-5_Switch-case.pdb
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\1-5_Switch-case.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-5_Switch-case\obj\Debug\net8.0\ref\1-5_Switch-case.dll
