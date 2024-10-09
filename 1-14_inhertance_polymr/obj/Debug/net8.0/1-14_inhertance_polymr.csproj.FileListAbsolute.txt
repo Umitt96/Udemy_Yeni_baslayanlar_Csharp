@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\bin\Debug\net8.0\1-14_inhertance_polymr.exe
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\bin\Debug\net8.0\1-14_inhertance_polymr.deps.json
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\bin\Debug\net8.0\1-14_inhertance_polymr.runtimeconfig.json
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\bin\Debug\net8.0\1-14_inhertance_polymr.dll
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\bin\Debug\net8.0\1-14_inhertance_polymr.pdb
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\1-14_inhertance_polymr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\1-14_inhertance_polymr.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\1-14_inhertance_polymr.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\1-14_inhertance_polymr.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\1-14_inhertance_polymr.dll
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\refint\1-14_inhertance_polymr.dll
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\1-14_inhertance_polymr.pdb
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\1-14_inhertance_polymr.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1-14_inhertance_polymr\obj\Debug\net8.0\ref\1-14_inhertance_polymr.dll
