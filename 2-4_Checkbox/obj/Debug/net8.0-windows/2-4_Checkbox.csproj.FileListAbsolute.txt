@@ -1,0 +1,16 @@
+C:\Users\bigfi\source\repos\2-4_Checkbox\bin\Debug\net8.0-windows\2-4_Checkbox.exe
+C:\Users\bigfi\source\repos\2-4_Checkbox\bin\Debug\net8.0-windows\2-4_Checkbox.deps.json
+C:\Users\bigfi\source\repos\2-4_Checkbox\bin\Debug\net8.0-windows\2-4_Checkbox.runtimeconfig.json
+C:\Users\bigfi\source\repos\2-4_Checkbox\bin\Debug\net8.0-windows\2-4_Checkbox.dll
+C:\Users\bigfi\source\repos\2-4_Checkbox\bin\Debug\net8.0-windows\2-4_Checkbox.pdb
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\_2_4_Checkbox.Form1.resources
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\2-4_Checkbox.csproj.GenerateResource.cache
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\2-4_Checkbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\2-4_Checkbox.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\2-4_Checkbox.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\2-4_Checkbox.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\2-4_Checkbox.dll
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\refint\2-4_Checkbox.dll
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\2-4_Checkbox.pdb
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\2-4_Checkbox.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\2-4_Checkbox\obj\Debug\net8.0-windows\ref\2-4_Checkbox.dll
