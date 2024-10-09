@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1.3_if-else\bin\Debug\net8.0\1.3_if-else.exe
+C:\Users\bigfi\source\repos\1.3_if-else\bin\Debug\net8.0\1.3_if-else.deps.json
+C:\Users\bigfi\source\repos\1.3_if-else\bin\Debug\net8.0\1.3_if-else.runtimeconfig.json
+C:\Users\bigfi\source\repos\1.3_if-else\bin\Debug\net8.0\1.3_if-else.dll
+C:\Users\bigfi\source\repos\1.3_if-else\bin\Debug\net8.0\1.3_if-else.pdb
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\1.3_if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\1.3_if-else.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\1.3_if-else.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\1.3_if-else.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\1.3_if-else.dll
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\refint\1.3_if-else.dll
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\1.3_if-else.pdb
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\1.3_if-else.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1.3_if-else\obj\Debug\net8.0\ref\1.3_if-else.dll

@@ -1,0 +1,14 @@
+C:\Users\bigfi\source\repos\1.1_ilk_proje\bin\Debug\net8.0\1.1_ilk_proje.exe
+C:\Users\bigfi\source\repos\1.1_ilk_proje\bin\Debug\net8.0\1.1_ilk_proje.deps.json
+C:\Users\bigfi\source\repos\1.1_ilk_proje\bin\Debug\net8.0\1.1_ilk_proje.runtimeconfig.json
+C:\Users\bigfi\source\repos\1.1_ilk_proje\bin\Debug\net8.0\1.1_ilk_proje.dll
+C:\Users\bigfi\source\repos\1.1_ilk_proje\bin\Debug\net8.0\1.1_ilk_proje.pdb
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\1.1_ilk_proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\1.1_ilk_proje.AssemblyInfoInputs.cache
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\1.1_ilk_proje.AssemblyInfo.cs
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\1.1_ilk_proje.csproj.CoreCompileInputs.cache
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\1.1_ilk_proje.dll
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\refint\1.1_ilk_proje.dll
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\1.1_ilk_proje.pdb
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\1.1_ilk_proje.genruntimeconfig.cache
+C:\Users\bigfi\source\repos\1.1_ilk_proje\obj\Debug\net8.0\ref\1.1_ilk_proje.dll
